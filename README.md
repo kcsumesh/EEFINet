@@ -1,5 +1,5 @@
 # EEFINet
-This repository contains the official PyTorch code base for **Multi-task architecture with edge enhancement and feature interaction for smallholder agricultural field delineation**
+This repository contains the official PyTorch code base for **Multi-task architecture with edge enhancement and feature interaction for smallholder agricultural field delineation**.
 
 '''
 *Our code will be released soon after the paper is accepted.*
