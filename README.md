@@ -13,6 +13,11 @@ The code is stable while using *Python 3.10.4*, *PyTorch 2.1.2* and *CUDA versio
 *The further instructions on using the code will be released soon after the paper is accepted.*
 '''
 
+## Data
+AI4SmallFarms is an open, large-scale smallholder agricultural field boundayr data consisting of 439,001 field polygons and Sentinel-2 image (10 m) distributed across Vietnam and Cambodia. It also provides a freely available agricultural field boundary dataset and Sentinel-2 images from the Netherlands. The dataset can be obtained from https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:321745.
+
+We have extended the AI4SmallFarms dataset by including a high-resolution PlanetScope images (3 m), which could aid in improving the delineation of smallholder fields in Vietname and Cambodia. *The link to dataset will be shared after the paper is accepted.*
+
 ## Preprocessing
 
 ## Folder and data structure
@@ -73,4 +78,17 @@ inputs
 
 ## Citation
 
+
 ## Acknowledgement
+**Data Source**
+'''
+@article{ai4small,
+  title={AI4SmallholderFarms: A Large-scale Data Set for Crop Field Delineation in Smallholder Farms in Southeast Asia},
+  author={Persello, Claudio and Grift, Jeroen and Xinyan, Fan and Paris, Claudia and Hänsch, Ronny and Koeva, Mila and Nelson, Andy},
+  journal={{IEEE GEOSCIENCE AND REMOTE SENSING LETTERS},
+  volume={20}
+  number={}
+  pages={1-5}
+  year={2023}
+}
+'''
