@@ -20,49 +20,49 @@ The folder and data structure should be as follows:
 ```
 inputs
 └── train
-    └── image
+    └── images
         ├── 001.tif
         ├── 002.tif
         ├── 003.tif
         ├── ...
-    └── mask
+    └── masks
         ├── 001.tif
         ├── 002.tif
         ├── 003.tif
         ├── ...
-    └── contour
+    └── contours
         ├── 001.tif
         ├── 002.tif
         ├── 003.tif
         ├── ...
-└── val
-    └── image
+└── validate
+    └── images
         ├── 001.tif
         ├── 002.tif
         ├── 003.tif
         ├── ...
-    └── mask
+    └── masks
         ├── 001.tif
         ├── 002.tif
         ├── 003.tif
         ├── ...
-    └── contour
+    └── contours
         ├── 001.tif
         ├── 002.tif
         ├── 003.tif
         ├── ...
 └── test
-    └── image
+    └── images
         ├── 001.tif
         ├── 002.tif
         ├── 003.tif
         ├── ...
-    └── mask
+    └── masks
         ├── 001.tif
         ├── 002.tif
         ├── 003.tif
         ├── ...
-    └── contour
+    └── contours
         ├── 001.tif
         ├── 002.tif
         ├── 003.tif
